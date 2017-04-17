@@ -1,0 +1,27 @@
+﻿.div_home {
+      
+    background-image: url('../images/Head1.jpg');
+padding:3em;
+}
+.div_home2 {
+     background-image: url('../images/head2.jpg');
+    padding: 2em;
+}
+.div_home3 {
+    /*background-color: azure;*/
+    float: left;
+    width: 260px;
+    height: 600px;
+}
+.div_hom4 {
+
+background-color:aquamarine;
+height:600px;
+
+}
+.div_home5 {
+background-color:palevioletred;
+padding:8em;
+
+}
+
